@@ -1,0 +1,3 @@
+/home/krzysiu/Projects/PG_PR_L7/PG_PR_L7/bin/Release/PG_PR_L7.exe
+/home/krzysiu/Projects/PG_PR_L7/PG_PR_L7/obj/x86/Release/PG_PR_L7.csproj.CoreCompileInputs.cache
+/home/krzysiu/Projects/PG_PR_L7/PG_PR_L7/obj/x86/Release/PG_PR_L7.exe

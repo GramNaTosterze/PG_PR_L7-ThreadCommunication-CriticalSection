@@ -1,0 +1,6 @@
+/home/krzysiu/Projects/PG_PR_L7/PG_PR_L7/bin/Debug/PG_PR_L7.exe
+/home/krzysiu/Projects/PG_PR_L7/PG_PR_L7/bin/Debug/PG_PR_L7.pdb
+/home/krzysiu/Projects/PG_PR_L7/PG_PR_L7/obj/x86/Debug/PG_PR_L7.csproj.AssemblyReference.cache
+/home/krzysiu/Projects/PG_PR_L7/PG_PR_L7/obj/x86/Debug/PG_PR_L7.csproj.CoreCompileInputs.cache
+/home/krzysiu/Projects/PG_PR_L7/PG_PR_L7/obj/x86/Debug/PG_PR_L7.exe
+/home/krzysiu/Projects/PG_PR_L7/PG_PR_L7/obj/x86/Debug/PG_PR_L7.pdb
